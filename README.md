@@ -2,6 +2,8 @@
 
 ### 😘 환영합니다.
 
+꾸준히 성장하는 개발자가 되겠습니다.
+
 <!--
 **si-zero/si-zero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
