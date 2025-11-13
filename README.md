@@ -3,6 +3,8 @@
 꾸준히 성장하는 개발자가 되겠습니다.
 
 <!--
+백엔드 목표
+
 **si-zero/si-zero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
