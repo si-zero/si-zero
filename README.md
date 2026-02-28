@@ -10,4 +10,5 @@
 <!--
 9th UMC Node.js 파트원
 10th UMC Node.js 파트장
+2026 DASOM 동아리 회장
 -->
